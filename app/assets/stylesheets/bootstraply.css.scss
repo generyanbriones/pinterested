@@ -1,0 +1,17 @@
+$navbar-default-link-color: #df1000;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.navbar-right {
+    font-size: 20px;
+}
